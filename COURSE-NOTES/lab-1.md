@@ -166,7 +166,7 @@ git --version
 
 **Why Fork?** You'll be making changes throughout the course and need your own copy to work with.
 
-1. Go to the lab repository: https://github.com/edielam/ai-solutions-lab
+1. Go to the lab repository: https://github.com/femiadebayoca-rgb/AISC-2013
 2. Click the **"Fork"** button in the top-right corner
 3. This creates your personal copy at `https://github.com/YOUR_USERNAME/ai-solutions-lab`
 4. You now have full control over your version of the code
